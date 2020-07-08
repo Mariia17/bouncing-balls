@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(180deg, #ffdee6, #c4f0ff);
+  display: flex;
+  justify-content: space-around;
+}
